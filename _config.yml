@@ -9,7 +9,7 @@
 title: dnklgr.eu
 email: sebastian@dnklgr.eu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://dnklgr.eu" # the base hostname & protocol for your site
+url: "https://dnklgr.eu" # the base hostname & protocol for your site
 twitter_username: dnklgr
 github_username:  dnklgr
 
