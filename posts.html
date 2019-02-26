@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<article>
+
+  <table>
+    {% for post in site.posts %}
+    <tr>
+      <td style="text-align: left; min-width: 200px;">{{ post.date | date_to_long_string }}</td>
+      <td style="text-align: left;"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></td>
+    </tr>
+    {% endfor %}
+  </table>
+
+</article>

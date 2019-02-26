@@ -7,7 +7,7 @@
 
 # Site settings
 title: dnklgr.eu
-email: sebastian@dnklgr.eu
+email: sebastian@
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dnklgr.eu" # the base hostname & protocol for your site
 twitter_username: dnklgr
