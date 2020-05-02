@@ -83,3 +83,10 @@ footer img {
     width: 100px;
     height: auto; 
 }
+td::after{
+    content: "..................";
+    letter-spacing: 4px;
+    font-size: 18px;
+    color:orange;
+    margin-left:20px;
+}
