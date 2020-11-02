@@ -3,12 +3,11 @@
 ---
 
 @charset "utf-8";
-@import url('https://fonts.googleapis.com/css?family=Vollkorn');
 
 body {
     color:black;
     font-size: 1.15em;
-    font-family: 'Vollkorn', serif;
+    font-family: "Times New Roman", Times, serif;
     margin: 5% 0;
     text-align: justify;
 }
@@ -26,12 +25,12 @@ header li {
 header img {
     margin: 1.5px auto;
     display: block;
-    width: 75px;
+    width: 70px;
     height: auto;
 }
 section, article, header, nav, footer {
     margin: 20px auto;
-    max-width: 800px;
+    max-width: 700px;
 }
 nav a{
     padding: 10px;
@@ -49,7 +48,7 @@ h1, h2, h3, h4 {
 article img {
    width: 100%;
    border-radius: 4px;
-   filter: grayscale(100%) contrast(110%);
+   filter: grayscale(100%) contrast(120%);
 }
 article img:hover {
     filter: grayscale(0%) contrast(100%);
