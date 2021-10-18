@@ -9,7 +9,7 @@ body {
     color:black;
     font-size: 1.15em;
     font-family: 'Merriweather', serif;
-    margin: 15% 15%;
+    margin: 15% auto;
     text-align: justify;
 }
 header {
@@ -31,7 +31,7 @@ header img {
 }
 section, article, header, nav, footer {
     margin: 20px 5%;
-    max-width: 800px;
+    max-width: 780px;
 }
 nav a{
     padding: 10px;
