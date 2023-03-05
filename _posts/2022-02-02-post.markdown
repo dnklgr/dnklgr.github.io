@@ -2,7 +2,6 @@
 layout: post
 title:  "Post"
 date:   2022-02-02 22:22:22 +0100
-categories: cat1
 ---
 # Maius mea pars velatos caput
 
