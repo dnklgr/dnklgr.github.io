@@ -1,9 +1,8 @@
 ---
 layout: post
-title:  "Post"
+title:  "Maius mea pars velatos caput"
 date:   2022-02-02 22:22:22 +0100
 ---
-# Maius mea pars velatos caput
 
 ## Miseros mirum is passa Eumenidum everti et
 
@@ -22,9 +21,9 @@ Lorem markdownum Lyrcea licet. Humum mihi redeuntem?
 ## Coortis ne Cancrum natos Alcyonen gelidas litora
 
 A gerunt fuerat, ne lata messoris, humum? Se minima, imagine externis timorem:
-dea sermone, quid ducis alas. Audit illius tamen vale exemploque nefandis
+dea sermone, quid ducis alas.[^1] Audit illius tamen vale exemploque nefandis
 *tela*, hodierna auctor: **Telamonius**. Calydon aevum longi: in femina
-intravit; congelat *in*!
+intravit; congelat *in*![^2]
 
 > Mediis gemino *claro* legit cum vadorum, retinere. In ripas et dedit aether
 > mitia tura cruris in obstitit secabatur harundine et Phoebe extulit esset.
@@ -49,3 +48,6 @@ illa](http://radio.com/fata-aenean), diffugiunt.
 Portis sed honore subdit amor omnia. Tetigit via, vellet Cadmo aura ponderibus
 protinus sidera tu coniugis tamen. Sumpserat est, inclusum culpa inposuit est
 subponunt sensit Chiae; par non sedit misisset in forte pressa prius deme.
+
+[^1]: Artificem
+[^2]: Portis sed honore lol
